@@ -5,7 +5,7 @@ go 1.21.0
 require (
 	github.com/segmentio/kafka-go v0.4.47
 	github.com/stretchr/testify v1.10.0
-	github.com/udugong/gormx v0.0.0-20260305115855-7c84e9517144
+	github.com/udugong/gormx v0.0.0-20260310082040-d78e3ab6a31d
 	github.com/udugong/migrator v0.0.0-20260306121605-b0f8887c882d
 	gorm.io/driver/mysql v1.6.0
 	gorm.io/gorm v1.30.0

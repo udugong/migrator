@@ -4,7 +4,7 @@ go 1.21.0
 
 require (
 	github.com/segmentio/kafka-go v0.4.47
-	github.com/udugong/gormx v0.0.0-20260305115855-7c84e9517144
+	github.com/udugong/gormx v0.0.0-20260310082040-d78e3ab6a31d
 	github.com/udugong/kafka-gox v0.0.0-20260302093541-8c2fe2f39eb2
 	golang.org/x/sync v0.11.0
 	gorm.io/gorm v1.30.0
